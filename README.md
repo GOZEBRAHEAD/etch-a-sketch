@@ -1,4 +1,12 @@
+# Etch-A-Sketch
+
 This is a simple Etch-a-Sketch game made with HTML5, CSS3 and vanilla JavaScript.
+
+## Live Demo
+
+https://etch-a-sketch-zebrahead.vercel.app/
+
+## Screenshot
 
 ![image](https://user-images.githubusercontent.com/54969894/108109821-30f65f00-7071-11eb-8912-057f381636d4.png)
 
